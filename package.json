@@ -1,8 +1,8 @@
 {
-  "name": "my-sample-form",
+  "name": "my-simple-calc",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://kannan789.github.io/",
+  "homepage":"https://kannan789.github.io/my-simple-calc",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
