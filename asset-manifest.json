@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-simple-calc/static/css/main.7f1dc64d.css",
+    "main.js": "/my-simple-calc/static/js/main.a3b8018b.js",
+    "static/js/787.98c9b63e.chunk.js": "/my-simple-calc/static/js/787.98c9b63e.chunk.js",
+    "static/media/logo.svg": "/my-simple-calc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-simple-calc/index.html",
+    "main.7f1dc64d.css.map": "/my-simple-calc/static/css/main.7f1dc64d.css.map",
+    "main.a3b8018b.js.map": "/my-simple-calc/static/js/main.a3b8018b.js.map",
+    "787.98c9b63e.chunk.js.map": "/my-simple-calc/static/js/787.98c9b63e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1dc64d.css",
+    "static/js/main.a3b8018b.js"
+  ]
+}
